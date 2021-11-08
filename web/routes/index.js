@@ -12,11 +12,13 @@ module.exports = function(app){
         conexao()
 
         //variável
+        var d = new Date()
         var res_noticias
         
         //array messes
         const messes = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
 
+        var data = d.getDate()+' de '+messes[d.getMonth()]+', '+d.getFullYear()
 
         //pesquisar sete (7) documentos da collection noticias em ordem descendente
         await noticias.find().limit(7).sort({"_id":-1})
@@ -26,7 +28,7 @@ module.exports = function(app){
         .catch((error)=>{
             console.log(error)
         })
-        res.render('index',{rnoticias:res_noticias,messes:messes})
+        res.render('index',{rnoticias:res_noticias,messes:messes,data:data})
         
     })
 }

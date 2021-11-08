@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60b4e7ee2745f48810e6bc5b"
+  },
+  "titulo": "DATA DE LANÇAMENTO DE NOVO REMAKE DE POKEMON ANUNCIADA!!!!!!!!!!!",
+  "texto": "<p>Nesta última quarta(26) a Nintendo anunciou depois de muitas expectativas a data de lançamento do novo remake de Pokémon. O remake da 4 geração da amada franquia de monstrinhos de bolsos será lançada no dia 19 de novembro, vários fãs já estão animados com a notícia e adquirindo suas copias na pré-vendas. </p>",
+  "imagem": "1622468590272_pokemon remake.jpg",
+  "data": {
+    "$date": "2021-05-31T13:43:10.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e8512745f48810e6bc5c"
+  },
+  "titulo": "O “LOL DE CELULAR” CRESCE RAPIDAMENTE!!!!!!!",
+  "texto": "<p>De acordo com o IMBP. O “League of legends: Wild Rift” ou somente “Lol de Celular” está com seu numero de jogadores crescendo rapidamente, é especulado que em pouco tempo, ultrapasse a quantidade de jogadores de Free Fire o atual jogo com maior jogadores mobile.</p>",
+  "imagem": "1622468689095_wild rift.jpg",
+  "data": {
+    "$date": "2021-05-31T13:44:49.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e86e2745f48810e6bc5d"
+  },
+  "titulo": "AMONG US FICA ESTÁ GRATUITO POR TEMPO LIMITADO!!!!!!!",
+  "texto": "<p>Nesta ultima quinta-feira(27) a loja da Epic games, tem o costume de toda quinta deixar um jogo aleatório de graça, e nessa ultima não foi diferente, dessa vez a loja virtual deixou o jogo de mentiras e traições “Among us” de graça até a próxima quinta(3). Então se você quiser se divertir, junte seus amigos e tente descobrir qual deles é o impostor.</p>",
+  "imagem": "1622468718779_AMOGUS.png",
+  "data": {
+    "$date": "2021-05-31T13:45:18.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e9512745f48810e6bc5e"
+  },
+  "titulo": "FAZADO GAMEPLAY DE FAR CRY 6!!!!!!!",
+  "texto": "<p>Neste sábado(29) Irá acontecer uma live da Ubisoft sobre seu novo jogo: Far Cry 6, o problema é que a gameplay que seria mostrada na live já foi quase toda vazada na internet por um anônimo. Ainda esperamos que nessa live tenha a data de lançamento desse jogo tão esperado.</p>",
+  "imagem": "1622468945590_far cry 6.jpg",
+  "data": {
+    "$date": "2021-05-31T13:49:05.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e96e2745f48810e6bc5f"
+  },
+  "titulo": "LIVE COM NOVIDADES SOBRE DYING LIGHT 2!!!!!",
+  "texto": "<p>Nesta quinta-feira(27) A desenvolvedora de Dying Light 2 Fez uma live para mostrar novidades no desenvolvimento, já que o jogo era originalmente planejado para ser lançado em 2020, só que a pandemia não ajudou e o jogo foi sendo adiado. Mas nessa live foi explicado muita coisa e que o desenvolvimento já está caminhando para sua fase final e que logo logo teremos uma data de lançamento.</p>",
+  "imagem": "1622468974113_dying light 2.jpg",
+  "data": {
+    "$date": "2021-05-31T13:49:34.116Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e9932745f48810e6bc60"
+  },
+  "titulo": "NOVO PROJETO DA TEAM SONIC!!!!!",
+  "texto": "<p>Na live da Sega nesta ultima quinta(27), após todos os anúncios teve um surpresa, antes da live acabar o criador do sonic puxou um teaser para o que aparenta ser um novo jogo inédito do sonic que só sabemos que irá lançar em 2022. </p>",
+  "imagem": "1622469011841_sonic 2022.jpg",
+  "data": {
+    "$date": "2021-05-31T13:50:11.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4ea382745f48810e6bc62"
+  },
+  "titulo": "REMASTER DE SONIC COLORS!!!!!!",
+  "texto": "<p>Nesta ultima quinta(27), A Sega fez uma live comemorando os 30 anos de ouriço, nesta live eles anunciaram um remaster do exclusivo de sonic colors, \"o sonic colors ultimate\", para os consoles de nova geração e o que aparenta ser exclusivo da loja virtual no PC da Epic store. O jogo lançará dia 7 de setembro para todo o mundo.</p>",
+  "imagem": "1622469176017_Sonic_colors_ultimate_key_vertical.jpg",
+  "data": {
+    "$date": "2021-05-31T13:52:56.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4ea592745f48810e6bc63"
+  },
+  "titulo": "GAMEPLAY DE HORIZON FORBIDDEN WEST REVELADA!!!!",
+  "texto": "<p>Nesta ultima quinta(27), a Playstation fez uma live especial só sobre a sequência do aclamado “Horizon Zero Dawn”. Sua sequência chamada de “Horizon Forbidden West” já tinha sido anunciada com um pequeno trailer mostrando um pouco da ambientação, mas nesta live foi mostrada uma gameplay de Aloy(a protagonista) enfrentando novos inimigos, demonstrando novas fetures e enchendo nossos olhos de gráficos maravilhosos. A gameplay pode ser encontrada no canal oficial da Playstation no youtube.</p>",
+  "imagem": "1622469209761_horizon-forbidden-west-listing-thumbnail-01-en-02oct20.png",
+  "data": {
+    "$date": "2021-05-31T13:53:29.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4ea762745f48810e6bc64"
+  },
+  "titulo": "REVIEW: AKANE, UM JOGO INDE BRASILEIRO INTERESANTE.",
+  "texto": "<p>Feito pelo pequeno grupo de desenvolvedores brasileiros Ludic studios, Akane é um top-down shooter em pixel art onde você é akane, uma samurai de um futuro ciberpunk de 2121 em mega tokyo. Seu objetivo e sobreviver a ordas infinitas de inimigos e a cada 100 um chefe. Pelo gameplay simples mas cativante e desafios que te fazem jogar, jogar e jogar sem parar até terminar todos, dou a akane um 8.5/10</p>",
+  "imagem": "1622469238992_Akane.jpg",
+  "data": {
+    "$date": "2021-05-31T13:53:58.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4ea8e2745f48810e6bc65"
+  },
+  "titulo": "DATA DE LANÇAMENTO DE NOVO POKEMON ANUNCIADA!!!!!!!!!!!",
+  "texto": "<p>Nesta última quarta(26) a Nintendo anunciou depois de muitas expectativas a data de lançamento do novo jogo de Pokémon, “Pokémon legends: Arceus” é o novo titulo da franquia que, promete levar o jogador ao passado desse universo para mostrar a origem da pokédex de Sinnoh. Pokémon legends: Arceus chega no começo do ano que vem em 28 de janeiro. </p>",
+  "imagem": "1622469262562_Pokemon-Legends-ARceus-1.jpg",
+  "data": {
+    "$date": "2021-05-31T13:54:22.564Z"
+  },
+  "__v": 0
+}]
