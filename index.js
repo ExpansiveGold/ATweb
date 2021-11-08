@@ -9,8 +9,6 @@ var porta = server.porta
 
 //executar o servidor
 var consign = require('consign')
-consign().include('./routes').into(app) 
+consign().include('./routes').into(app)
 
-app.listen(porta,()=> {
-    console.log("servidor no endereço http://localhost:"+ porta)
-})
+app.listen(porta)
