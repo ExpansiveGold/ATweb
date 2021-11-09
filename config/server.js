@@ -17,7 +17,7 @@ app.use(express.static('./web/assets'))
 app.use(express.urlencoded({extended: true}))
 
 //definir a porta do servidor
-var porta = process.env.PORT
+var porta = process.env.PORT || 1313
 
 // configurar as pastas para o carregamento automático
 consign().include('./web/routes').into(app)
