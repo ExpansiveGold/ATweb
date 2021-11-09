@@ -4,7 +4,7 @@ var multer = require('multer');
 //configurar o destino e nome do arquivo (DiskStorage)
 var armazenamento = multer.diskStorage({
     destination:(req,file,cb)=>{
-        cb(null,'./web/assets/uploads/');
+        cb(null,'./web/assets/images');
     },
     filename:(req,file,cb)=>{
         cb(null, Date.now()+'_'+file.originalname);
