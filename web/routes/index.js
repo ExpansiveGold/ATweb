@@ -21,7 +21,7 @@ module.exports = function(app){
         var data = d.getDate()+' de '+messes[d.getMonth()]+', '+d.getFullYear()
 
         //pesquisar sete (7) documentos da collection noticias em ordem descendente
-        await noticias.find().limit(7).sort({"_id":-1})
+        await noticias.find().limit(5).sort({"_id":-1})
         .then((noticias)=>{
             res_noticias = noticias
         })
