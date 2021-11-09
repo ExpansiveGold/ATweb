@@ -9,6 +9,6 @@ var porta = server.porta
 
 //executar o servidor
 var consign = require('consign')
-consign().include('./routes').into(app)
+consign().include('./web/routes').into(app)
 
 app.listen(porta)
